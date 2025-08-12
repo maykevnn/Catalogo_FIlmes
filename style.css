@@ -1,18 +1,28 @@
 .titulo {
-color: rgb(216, 41, 18);
+color: rgb(164, 11, 11);
 text-align: center ;
 }
 
 .titulohm {
-color: rgb(180, 53, 3);
+color: rgb(220, 215, 51);
 }
+
+
+.textovd {
+color: rgb(196, 176, 24);
+
+}
+
 
 body {
-background-color: rgb(31, 31, 31);
-
+    color: white;
+    background: rgb(16, 16, 16);
+    margin: 0px;
 }
 
-.texto {
-color: rgb(255, 255, 246);
-
+header {
+    border-bottom: solid 2px rgb(228, 42, 42);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(218, 26, 26);
 }
