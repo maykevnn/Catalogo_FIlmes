@@ -4,13 +4,14 @@ text-align: center ;
 }
 
 .titulohm {
-color: rgb(220, 215, 51);
+color: rgb(240, 240, 240);
+text-align: center;
 }
 
 
 .textovd {
-color: rgb(196, 176, 24);
-
+color: rgb(240, 240, 240);
+text-align: center;
 }
 
 
@@ -21,8 +22,19 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(228, 42, 42);
-    padding: 20px;
-    font-size: 32px;
-    color: rgb(218, 26, 26);
+    border-bottom: solid 2px rgb(129, 7, 7);
+    padding: 15px;
+    font-size: 30px;
+    color: rgb(172, 11, 11);
+}
+
+.iframe {
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.destaques {
+color: rgb(221, 221, 221);
+text-align: center;
 }
